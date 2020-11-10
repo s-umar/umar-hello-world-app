@@ -2,9 +2,9 @@
 <div>
     <el-row :gutter="20">
         <el-col :span="12">
-            <h1>TRAIN TEST</h1>
             <sly-card title="Settings" subtitle="some description">
                 <sly-field title="Prefix" description="will be added to the beginning of the generated string">
+                    <h1>TRAIN TEST</h1>
                     <el-input v-model="state.prefix"></el-input>
                 </sly-field>
                 <el-button style="margin-top: 10px;" @click="command('generate')"> Generate!</el-button>
