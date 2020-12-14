@@ -1,5 +1,5 @@
 {
-  "name": "Hello World App",
+  "name": "Private Hello World App",
   "type": "app",
   "categories": [
     "development"
@@ -15,5 +15,6 @@
   "task_location": "application_sessions",
   "isolate": true,
   "icon": "https://img.icons8.com/fluent/96/000000/source-code.png",
-  "icon_background": "#FFFFFF"
+  "icon_background": "#FFFFFF",
+  "intergrated_into": ["image_annotation_tool"]
 }
