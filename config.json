@@ -16,5 +16,5 @@
   "isolate": true,
   "icon": "https://img.icons8.com/fluent/96/000000/source-code.png",
   "icon_background": "#FFFFFF",
-  "intergrated_into": ["image_annotation_tool"]
+  "integrated_into": ["image_annotation_tool"]
 }
